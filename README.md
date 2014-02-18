@@ -8,4 +8,4 @@ Documentation
 =============
 
 The documentation to the project is available `here
-<http://meteor-social-auth.readthedocs.org/>`_.
+<http://meteor-social-auth.readthedocs.org/>`_ .
