@@ -1,0 +1,8 @@
+{
+  "name": "meteor-social-auth",
+  "description": "Provides an easy way to integrate social auth mechanism",
+  "homepage": "https://github.com/waartaa/meteor-social-auth",
+  "author": "Sayan Chowdhury, Souradeep De",
+  "version": "0.0.1",
+  "git": "https://github.com/waartaa/meteor-social-auth.git"
+}
